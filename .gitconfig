@@ -1,0 +1,4 @@
+[remote "origin"]
+  url = git@github.com:paryank/playground.git
+  pushURL = git@github.com:paryank/playground.git
+  pushURL = git@bitbucket.org:paryank/playground.git
